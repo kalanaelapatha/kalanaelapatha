@@ -3,7 +3,7 @@
 - 🏢 Associate Software Engineer at Digiratina Technology Solutions(Pvt)Ltd.
 - 🏢 Former Junior Software Engineer at LeafyCode(Pvt)Ltd.
 - 🏢 Former Intern Software Developer at Loops Digital(Pvt)Ltd.
-- 🐧 Linux Lover 😚
+- 🐧 Linux Lover 😚 :green_heart:
 - 😊 Graphic Designer UX/UI Enthusiast
 - 💬 Mobile App,Logo Designing, 
 - 📫 twitter.com/kalanaelapatha
