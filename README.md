@@ -1,6 +1,6 @@
 # Hello, folks! I'am Kalana <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-- 🏢 Associate Software Engineer at Digiratina Technology Solutions(Pvt)Ltd.
+- 🏢 Software Engineer at Digiratina Technology Solutions(Pvt)Ltd.
+- 🏢 Former Associate Software Engineer at Digiratina Technology Solutions(Pvt)Ltd.
 - 🏢 Former Junior Software Engineer at LeafyCode(Pvt)Ltd.
 - 🏢 Former Intern Software Developer at Loops Digital(Pvt)Ltd.
 - 🐧 Linux Lover 😚 :green_heart:
