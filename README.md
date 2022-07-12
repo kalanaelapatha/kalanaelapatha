@@ -1,4 +1,4 @@
-# Hello, folks! I'am Kalana <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10rem">
+# Hello, folks! I'am Kalana <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30rem">
 - 🏢 Software Engineer at Digiratina Technology Solutions(Pvt)Ltd.
 - 🏢 Former Associate Software Engineer at Digiratina Technology Solutions(Pvt)Ltd.
 - 🏢 Former Junior Software Engineer at LeafyCode(Pvt)Ltd.
