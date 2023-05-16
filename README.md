@@ -1,5 +1,5 @@
 # Hello, folks! I'am Kalana <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 🏢 Senior Software Engineer at Digiratina Technology Solutions(Pvt)Ltd.
+- 🏢 Ex Senior Software Engineer at Digiratina Technology Solutions(Pvt)Ltd.
 - 🏢 EX Engineer at Digiratina Technology Solutions(Pvt)Ltd.
 - 🏢 EX-Associate Software Engineer at Digiratina Technology Solutions(Pvt)Ltd.
 - 🏢 EX-Junior Software Engineer at LeafyCode(Pvt)Ltd.
