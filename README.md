@@ -1,4 +1,5 @@
 # Hello, folks! I'am Kalana <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+- 🏢 SSE at Tecciance(Pvt)Ltd.
 - 🏢 EX- ASE | SE | SSE at Digiratina Technology Solutions(Pvt)Ltd.
 - 🏢 EX- Junior Software Engineer at LeafyCode(Pvt)Ltd.
 - 🏢 EX- Intern Software Developer at Loops Digital(Pvt)Ltd.
