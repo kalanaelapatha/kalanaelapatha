@@ -88,7 +88,7 @@
 ## 🛠️ Tech Stack
 
 ### 🚀 Frontend
-React • Angular • Flutter • CSS3
+React • Next • React Native • HTML5 • CSS3
 
 ### ⚙️ Backend
 Node.js • NestJS • GraphQL
@@ -114,7 +114,7 @@ Linux • Git • REST APIs
 
 ## 📫 Connect with Me
 
-- Twitter: https://twitter.com/kalanaelapatha
+- LinkedIn: https://www.linkedin.com/in/kalanaelapatha/
 
 ---
 
