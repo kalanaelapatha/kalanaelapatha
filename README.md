@@ -1,3 +1,5 @@
+<!--
+
 # Hello, I'am Kalana <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 🏢 SSE at Rootcode(Pvt)Ltd.
 - 🏢 EX  SSE at Tecciance(Pvt)Ltd.
@@ -58,9 +60,63 @@
 </p>
 
 
-<!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kalanaelapatha)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kalanaelapatha)
 
 ![Kalana's github stats](https://github-readme-stats.vercel.app/api?username=kalanaelapatha&show_icons=true&theme=radical)
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kalanaelapatha&repo=github-readme-stats)](https://github.com/kalanaelapatha/github-readme-stats)
 -->
+
+
+# Hi, I'm Kalana 👋
+
+💻 Senior Software Engineer with 5+ years of experience building scalable web and mobile applications.  
+🚀 Passionate about clean architecture, performance, and user-focused design.
+
+---
+
+## 🧑‍💼 Experience
+
+- 🏢 **Senior Software Engineer** — Rootcode (Pvt) Ltd.  
+- 🏢 **Senior Software Engineer** — Tecciance (Pvt) Ltd.  
+- 🏢 **ASE → SE → SSE** — Digiratina Technology Solutions (Pvt) Ltd.  
+- 🏢 **Junior Software Engineer** — LeafyCode (Pvt) Ltd.  
+- 🏢 **Intern Software Developer** — Loops Digital (Pvt) Ltd.  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+React • Angular • Flutter • CSS3
+
+### ⚙️ Backend
+Node.js • NestJS • GraphQL
+
+### 💾 Databases
+PostgreSQL • MongoDB
+
+### 💻 Languages
+JavaScript • TypeScript • Java • Python
+
+### 🐧 Tools & Systems
+Linux • Git • REST APIs
+
+---
+
+## 🎯 Interests
+
+- 🎨 UI/UX & Graphic Design  
+- 📱 Mobile App Development  
+- 🏏 Cricket & Futsal  
+
+---
+
+## 📫 Connect with Me
+
+- Twitter: https://twitter.com/kalanaelapatha
+
+---
+
+## ⚡ Fun Fact
+I enjoy combining design + development to build complete user experiences.
