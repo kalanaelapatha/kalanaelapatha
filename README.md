@@ -67,13 +67,13 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kalanaelapatha&repo=github-readme-stats)](https://github.com/kalanaelapatha/github-readme-stats)
 -->
 
-
 # Hi, I'm Kalana 👋
 
-💻 Senior Software Engineer with 5+ years of experience building and scaling web and mobile applications.  
-👥 Experienced in leading development teams and contributing to end-to-end product development from idea to production.  
-☁️ Experience working with AWS to build and support cloud-based solutions across multiple products.  
-🚀 Passionate about clean architecture, performance, and delivering user-focused, high-quality products.
+💻 Senior Software Engineer with 5+ years of experience building and scaling web and mobile applications  
+👥 Experienced in leading development teams and contributing to end-to-end product development from idea to production  
+☁️ Experience working with AWS to build and support cloud-based solutions across multiple products  
+🚀 Passionate about clean architecture, performance, and delivering user-focused, high-quality products
+
 ---
 
 ## 🧑‍💼 Experience
@@ -88,33 +88,31 @@
 
 ## 🛠️ Tech Stack
 
-### 🚀 Frontend
-React • Angular • Flutter • CSS3
+**Frontend**  
+React • Angular • Flutter • CSS3  
 
-### ⚙️ Backend
-Node.js • NestJS • GraphQL • REST APIs
+**Backend**  
+Node.js • NestJS • GraphQL • REST APIs  
 
-### ☁️ Cloud & DevOps
-AWS (S3, EC2, Lambda, SQS) • CI/CD
+**Cloud & DevOps**  
+AWS (S3, EC2, Lambda, SQS) • CI/CD  
 
-### 💾 Databases
-PostgreSQL • MongoDB
+**Databases**  
+PostgreSQL • MongoDB  
 
-### 💻 Languages
-JavaScript • TypeScript • Java • Python
+**Languages**  
+JavaScript • TypeScript • Java • Python  
 
-### 🐧 Tools & Systems
-Linux • Git
+**Tools & Systems**  
+Linux • Git  
 
 ---
 
 ## 🎯 Interests
 
-- 🎨 UI/UX & Graphic Design  
-- 📱 Mobile App Development  
-- 🏏 Cricket & Futsal  
-
----
+🎨 UI/UX & Graphic Design  
+📱 Mobile App Development  
+🏏 Cricket & Futsal  
 
 ## 📫 Connect with Me
 
