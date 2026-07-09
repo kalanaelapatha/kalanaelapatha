@@ -1,71 +1,6 @@
 <!--
 
-# Hello, I'am Kalana <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 🏢 SSE at Rootcode(Pvt)Ltd.
-- 🏢 EX  SSE at Tecciance(Pvt)Ltd.
-- 🏢 EX- ASE | SE | SSE at Digiratina Technology Solutions(Pvt)Ltd.
-- 🏢 EX- Junior Software Engineer at LeafyCode(Pvt)Ltd.
-- 🏢 EX- Intern Software Developer at Loops Digital(Pvt)Ltd.
-- 🐧 Linux Lover 😚 :green_heart:
-- 😊 Graphic Designer UX/UI Enthusiast
-- 💬 Mobile App,Logo Designing, 
-- 📫 twitter.com/kalanaelapatha
-- ⚡ Fun fact: Love to play cricket and Futsal
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://docs.nestjs.com" target="_blank" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/docs/getting-started.html" target="_blank" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/docs/" target="_blank" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org/en/docs/" target="_blank" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org/docs/" target="_blank" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="margin-right: 15px;">
-  <img src="https://miro.medium.com/max/600/1*usQX20oLxChIAupsuRi7GQ.png" alt="css3" width="70" height="40"/>
-</a>
-<a href="https://angular.io/docs" target="_blank" style="margin-right: 15px;">
-  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/>
-</a>
-<a href="https://docs.flutter.dev/" target="_blank" style="margin-right: 15px;">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</a>
-<a href="https://graphql.org/learn/" target="_blank" style="margin-right: 15px;">
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-</a>
-<a href="https://docs.oracle.com/en/java/" target="_blank" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/pages/download/" target="_blank" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/docs/" target="_blank" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://docs.python.org/3/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-</p>
-
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kalanaelapatha)
-
-![Kalana's github stats](https://github-readme-stats.vercel.app/api?username=kalanaelapatha&show_icons=true&theme=radical)
-<!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kalanaelapatha&repo=github-readme-stats)](https://github.com/kalanaelapatha/github-readme-stats)
--->
 
 # Hi, I'm Kalana 👋
 
@@ -122,3 +57,208 @@ Linux • Git
 
 ## ⚡ Fun Fact
 I enjoy combining design + development to build complete user experiences.
+
+-->
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                              HEADER BANNER                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<a href="https://github.com/kalanaelapatha">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Kalana%20Elapatha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Linux%20Lover%20%E2%80%A2%20UI%2FUX%20Enthusiast&descSize=18&descAlignY=58" alt="header"/>
+</a>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                            TYPING ANIMATION                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+%26+scaling+web+%26+mobile+apps;5%2B+years+of+full-stack+engineering;Clean+architecture+%7C+Performance+%7C+UX;Design+%2B+Development+in+one+mind" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kalanaelapatha&label=Profile%20Views&color=8E2DE2&style=flat-square" alt="profile views" />
+  <a href="https://www.linkedin.com/in/kalanaelapatha/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://twitter.com/kalanaelapatha">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                                 ABOUT                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+
+```typescript
+const kalana = {
+  role: "Senior Software Engineer",
+  experience: "5+ years",
+  location: "Sri Lanka",
+  currentFocus: ["Clean Architecture", "Performance", "User-Focused Products"],
+  cloud: "AWS (S3, EC2, Lambda, SQS)",
+  passions: ["UI/UX Design", "Mobile Apps", "Building end-to-end products"],
+  funFact: "I blend design + development to craft complete experiences 🎨",
+  offScreen: ["🏏 Cricket", "⚽ Futsal", "🐧 Tinkering with Linux"],
+};
+```
+
+- 💻 &nbsp;Senior Software Engineer building and scaling **web & mobile applications**
+- 👥 &nbsp;Experienced in **leading teams** and shipping products from idea → production
+- ☁️ &nbsp;Building cloud-based solutions on **AWS** across multiple products
+- 🚀 &nbsp;Passionate about **clean architecture, performance, and delightful UX**
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                               EXPERIENCE                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🧑‍💼 Experience
+
+<table>
+  <tr>
+    <td><b>🏢 Rootcode (Pvt) Ltd.</b></td>
+    <td>Senior Software Engineer</td>
+  </tr>
+  <tr>
+    <td><b>🏢 Tecciance (Pvt) Ltd.</b></td>
+    <td>Senior Software Engineer</td>
+  </tr>
+  <tr>
+    <td><b>🏢 Digiratina Technology Solutions</b></td>
+    <td>ASE → SE → SSE</td>
+  </tr>
+  <tr>
+    <td><b>🏢 LeafyCode (Pvt) Ltd.</b></td>
+    <td>Junior Software Engineer</td>
+  </tr>
+  <tr>
+    <td><b>🏢 Loops Digital (Pvt) Ltd.</b></td>
+    <td>Intern Software Developer</td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                               TECH STACK                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack
+
+<h4>Frontend</h4>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<h4>Backend</h4>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+<h4>Cloud &amp; DevOps</h4>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<h4>Databases</h4>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<h4>Languages</h4>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<h4>Tools &amp; Systems</h4>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                              GITHUB STATS                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalanaelapatha&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanaelapatha&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kalanaelapatha&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=8E2DE2&currStreakLabel=8E2DE2" alt="streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kalanaelapatha&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                            CONTRIBUTION SNAKE                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kalanaelapatha/kalanaelapatha/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                               INTERESTS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🎯 Beyond the Code
+
+<table>
+  <tr>
+    <td align="center">🎨<br/><b>UI/UX &amp; Graphic Design</b></td>
+    <td align="center">📱<br/><b>Mobile App Development</b></td>
+    <td align="center">🏏<br/><b>Cricket</b></td>
+    <td align="center">⚽<br/><b>Futsal</b></td>
+  </tr>
+</table>
+
+> ⚡ **Fun fact:** I love combining **design + development** to build complete, polished user experiences.
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                                CONNECT                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kalanaelapatha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://twitter.com/kalanaelapatha">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
+  <a href="https://github.com/kalanaelapatha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer"/>
