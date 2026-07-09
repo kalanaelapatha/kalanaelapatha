@@ -65,7 +65,7 @@ I enjoy combining design + development to build complete user experiences.
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/kalanaelapatha">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Kalana%20Elapatha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Linux%20Lover%20%E2%80%A2%20UI%2FUX%20Enthusiast&descSize=18&descAlignY=58" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:CC4A00&height=200&section=header&text=Kalana%20Elapatha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Linux%20Lover%20%E2%80%A2%20UI%2FUX%20Enthusiast&descSize=18&descAlignY=58" alt="header"/>
 </a>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -74,12 +74,12 @@ I enjoy combining design + development to build complete user experiences.
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+%26+scaling+web+%26+mobile+apps;5%2B+years+of+full-stack+engineering;Clean+architecture+%7C+Performance+%7C+UX;Design+%2B+Development+in+one+mind" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=Building+%26+scaling+web+%26+mobile+apps;5%2B+years+of+full-stack+engineering;Clean+architecture+%7C+Performance+%7C+UX;Design+%2B+Development+in+one+mind" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalanaelapatha&label=Profile%20Views&color=8E2DE2&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kalanaelapatha&label=Profile%20Views&color=FF8C00&style=flat-square" alt="profile views" />
   <a href="https://www.linkedin.com/in/kalanaelapatha/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
@@ -198,22 +198,23 @@ const kalana = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalanaelapatha&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanaelapatha&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2" alt="top langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalanaelapatha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=c9d1d9&icon_color=FF8C00" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanaelapatha&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=c9d1d9" alt="top langs" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kalanaelapatha&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=8E2DE2&currStreakLabel=8E2DE2" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=kalanaelapatha&hide_border=true&background=0D1117&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kalanaelapatha&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kalanaelapatha&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                            CONTRIBUTION SNAKE                            -->
+<!--   Requires the snake GitHub Action (see snake.yml) to generate the SVG   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -261,4 +262,4 @@ const kalana = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CC4A00,100:FF8C00&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer"/>
