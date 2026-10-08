@@ -99,8 +99,8 @@ I enjoy combining design + development to build complete user experiences.
 
 ```typescript
 const kalana = {
-  role: "Senior Software Engineer",
-  experience: "5+ years",
+  role: "Associate Technical Lead",
+  experience: "7+ years",
   location: "Sri Lanka",
   currentFocus: ["Clean Architecture", "Performance", "User-Focused Products"],
   cloud: "AWS (S3, EC2, Lambda, SQS)",
@@ -110,7 +110,7 @@ const kalana = {
 };
 ```
 
-- 💻 &nbsp;Senior Software Engineer building and scaling **web & mobile applications**
+- 💻 &nbsp;Associate Technical Lead building and scaling **web & mobile applications**
 - 👥 &nbsp;Experienced in **leading teams** and shipping products from idea → production
 - ☁️ &nbsp;Building cloud-based solutions on **AWS** across multiple products
 - 🚀 &nbsp;Passionate about **clean architecture, performance, and delightful UX**
