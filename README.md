@@ -4,7 +4,7 @@
 
 # Hi, I'm Kalana 👋
 
-💻 Senior Software Engineer with 5+ years of experience building and scaling web and mobile applications  
+💻 Associate Technical Lead with 7+ years of experience building and scaling web and mobile applications  
 👥 Experienced in leading development teams and contributing to end-to-end product development from idea to production  
 ☁️ Experience working with AWS to build and support cloud-based solutions across multiple products  
 🚀 Passionate about clean architecture, performance, and delivering user-focused, high-quality products
@@ -13,6 +13,7 @@
 
 ## 🧑‍💼 Experience
 
+- 🏢 **Associate Technical Lead** — Synexis (Pvt) Ltd. 
 - 🏢 **Senior Software Engineer** — Rootcode (Pvt) Ltd.  
 - 🏢 **Senior Software Engineer** — Tecciance (Pvt) Ltd.  
 - 🏢 **ASE → SE → SSE** — Digiratina Technology Solutions (Pvt) Ltd.  
