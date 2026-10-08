@@ -66,7 +66,7 @@ I enjoy combining design + development to build complete user experiences.
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/kalanaelapatha">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:CC4A00&height=200&section=header&text=Kalana%20Elapatha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Linux%20Lover%20%E2%80%A2%20UI%2FUX%20Enthusiast&descSize=18&descAlignY=58" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:CC4A00&height=200&section=header&text=Kalana%20Elapatha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20Technical%20Lead%20%E2%80%A2%20Linux%20Lover%20%E2%80%A2%20UI%2FUX%20Enthusiast&descSize=18&descAlignY=58" alt="header"/>
 </a>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
