@@ -101,7 +101,7 @@ I enjoy combining design + development to build complete user experiences.
 const kalana = {
   role: "Associate Technical Lead",
   experience: "7+ years",
-  location: "Sri Lanka",
+  location: "Germany, Nürnberg",
   currentFocus: ["Clean Architecture", "Performance", "User-Focused Products"],
   cloud: "AWS (S3, EC2, Lambda, SQS)",
   passions: ["UI/UX Design", "Mobile Apps", "Building end-to-end products"],
